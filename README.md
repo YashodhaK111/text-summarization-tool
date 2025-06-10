@@ -37,3 +37,8 @@ Healthcare: Summarize medical reports, research studies, or patient histories. A
 Content Creation & Blogging: Help writers and bloggers quickly generate article intros, conclusions, or abstract summaries. Use in SEO to create meta descriptions from content.
 
 The Text Summarization Tool is a practical and powerful application of NLP that can significantly enhance productivity, comprehension, and decision-making across domains. As the volume of digital information continues to grow, tools like this are becoming essential for managing and understanding complex content efficiently.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b62468da-29b2-4595-bd7e-f78c9647ad6e)
+
